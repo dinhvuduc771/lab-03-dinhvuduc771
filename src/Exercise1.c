@@ -26,6 +26,8 @@ void Ex1(int arr[], int n){
 	printf("symemetric");
 }
 
+
+
 int main(int argc, char *argv[]) {
 	//testing variable, applying it to your algorithm for auto-evaluating
 	argc--;
