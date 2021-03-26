@@ -28,6 +28,7 @@ void Ex1(int arr[], int n){
 
 
 
+
 int main(int argc, char *argv[]) {
 	//testing variable, applying it to your algorithm for auto-evaluating
 	argc--;
